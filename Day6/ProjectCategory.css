@@ -1,0 +1,13 @@
+.ct
+{
+    height:100px;   
+}
+.grid2
+{
+    display:grid;
+      grid-gap:0px;
+    grid-template-columns:auto auto auto;
+    /* padding-bottom: 10%; */
+    position:relative;
+    margin:0 auto;
+}
