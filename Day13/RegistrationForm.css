@@ -1,0 +1,37 @@
+
+#un{
+    height:27px;
+    border-radius: 16px;
+}
+#em{
+    height:27px;
+    border-radius: 16px;
+}
+#cpwd{
+    height:27px;
+    border-radius: 16px;
+}
+#pwd{
+    height:27px;
+    border-radius: 16px;
+
+}
+.zz
+{
+    border-radius: 50px;
+    margin-top: 10px;
+    border-style: double;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+.bl
+{
+    background-image:url("https://img.freepik.com/premium-photo/toy-airplane-with-camera-yellow-light-blue-background_319172-2632.jpg?w=2000");
+}
+.signupinput
+{
+    border-radius: 20px;
+    height:30px;
+    size:33px;
+}
