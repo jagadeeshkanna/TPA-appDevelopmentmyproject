@@ -1,0 +1,26 @@
+.bodyre12
+{
+    border-style: double;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.bl
+{
+    background-image:url("https://img.freepik.com/premium-vector/travel-concept-vector-illustration-paper-cut-style-design-vacation-background_545205-313.jpg?w=2000");
+    background-color: rgba(255, 255, 255, 0.385);
+    background-image: ;
+}
+#cpwd
+{
+       height:80px;
+}
+#cpd
+{
+    border-radius: 20px;
+    height:25px;
+}
+#cwd
+{
+    border-radius: 20px;
+    height:25px;
+}
