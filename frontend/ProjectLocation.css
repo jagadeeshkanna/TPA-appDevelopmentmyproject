@@ -1,0 +1,23 @@
+.hi
+{
+    width: 1000px;
+   
+}
+.grid1
+{
+    display:grid;
+      grid-gap:20px;
+    grid-template-columns:auto auto auto auto;
+    /* padding-bottom: 10%; */
+    position:relative;
+    margin:0 auto;
+}
+.co
+{
+  height: 40px;
+  width:40px;
+}
+.en 
+{
+  color:green;
+}

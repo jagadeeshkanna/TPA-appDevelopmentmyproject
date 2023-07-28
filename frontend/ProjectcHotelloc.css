@@ -1,0 +1,35 @@
+.hi1
+{
+    width: 1000px;
+    float: right;
+   margin-left:00px;
+   
+}
+.hello1
+{
+  float: right;
+  margin-right:400px;
+
+}
+.grid9
+{
+    display:grid;
+      grid-gap:20px;
+    grid-template-columns:auto auto auto auto;
+    /* padding-bottom: 10%; */
+    position:relative;
+    margin:0 auto;
+}
+.sm1
+{
+  height: 40px;
+  width:40px;
+}
+
+
+
+.fl
+{
+  float:left;
+}
+
